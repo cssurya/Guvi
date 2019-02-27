@@ -4,11 +4,11 @@ int n;
 Scanner sc=new Scanner(System.in);
 if(n%2==0)
 {
-System.out.println("Positive");
+System.out.println("Even");
 }
 else
 {
-System.out.println("Negative");
+System.out.println("Odd");
 }
 }
 }
